@@ -1,0 +1,6 @@
+{
+  "name": "El Gran Hilo",
+  "description": "Tablero de juego, bitácora histórica y archivo de conspiraciones para campañas de PowerPoint Nights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
